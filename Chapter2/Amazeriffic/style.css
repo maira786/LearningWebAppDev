@@ -5,8 +5,29 @@ html
 {
 	background-color: #ffec8b;
 }
-.relevant , .important , h1 , p
+.relevant , .important , h1 , h3, p, ul
 {
 	padding:0;
 	margin: 0;
 }
+h3
+{
+	color: blue;
+}
+/*
+a, .a
+{
+	color: red;
+}*/
+/*
+style="color:red"
+3. Select all of the relevant paragraphs.
+4. Select the first paragraph of the relevant paragraphs.
+5. Select the third paragraph of the relevant paragraphs.
+6. Select the seventh relevant paragraph.
+7. Select all of the paragraphs on the page.
+8. Select only the random, unattached paragraph.
+9. Select all of the paragraphs with the a class.
+10. Select only the relevant paragraphs with the a class.
+11. Select the second and fourth paragraphs (HINT: use a comma).
+*/
