@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html
+{
+	background-color: #ffec8b;
+}
+.relevant , .important , h1 , p
+{
+	padding:0;
+	margin: 0;
+}
